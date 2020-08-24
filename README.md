@@ -15,3 +15,6 @@ Possible currencies:
 - US -> долларов США
 - euro -> евро
 - pounds -> фунтов стерлингов
+
+
+[NPM](https://www.npmjs.com/package/currencytransformer)
