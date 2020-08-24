@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "currencytransformer",
+  "version": "1.0.2",
+  "description": "Transforms days, numbers to words and appends currency",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-modules test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/volokolamskspb/currencytransformer"
+  },
+  "keywords": [
+    "numberstowords",
+    "currency",
+    "days"
+  ],
+  "author": "Yulia Kuznetsova",
+  "license": "GPL-3.0-or-later"
+}
