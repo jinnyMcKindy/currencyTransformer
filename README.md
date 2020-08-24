@@ -1,4 +1,4 @@
-#Currency Transformer
+# Currency Transformer
 
 Transforms days, numbers to Russian words and appends currency
 
